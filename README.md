@@ -8,7 +8,7 @@ Versão modificada do Infinite Yield FE original criado por EdgeIY.
 
 ## Como usar
 ```lua
-loadstring(game:HttpGet('SEU_LINK_RAW_AQUI'))()
+loadstring(game:HttpGet('1'))()
 ```
 
 ## Créditos
